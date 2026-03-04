@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82992591-c8bf-4c17-9fe0-1e15fbe879da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/advanced/bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/blurring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/colorChannels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/colorSpaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/gradients.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/masking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced/thresh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OpencCV.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face/face_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face/face_recognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face/faces_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face/haar_face.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +34,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.face_detect.executor": "Run",
+    "Python.face_recognition.executor": "Run",
+    "Python.faces_train.executor": "Run",
     "Python.gradients.executor": "Run",
     "Python.thresh.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
