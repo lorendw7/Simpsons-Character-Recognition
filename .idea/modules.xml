@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/OpencCV.iml" filepath="$PROJECT_DIR$/.idea/OpencCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simpsons-Character-Recognition.iml" filepath="$PROJECT_DIR$/.idea/Simpsons-Character-Recognition.iml" />
     </modules>
   </component>
 </project>
